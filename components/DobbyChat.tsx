@@ -1,4 +1,4 @@
-// components/DobbyChat.tsx
+
 import Image from "next/image";
 
 type Props = { line: string };

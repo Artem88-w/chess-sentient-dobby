@@ -30,7 +30,7 @@ body {
 }
 
 body {
-  background-image: url("/images/background.avif");
+  background-image: url("/images/texture.svg");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
